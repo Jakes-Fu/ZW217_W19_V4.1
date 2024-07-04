@@ -728,8 +728,6 @@ ENGPC_W217 = FALSE                                   ### Switch ENGPC_W217 Suppo
 LCD_INSTALL_ANGLE = 0    #90
 
 ##zmt add start
-POETRY_LISTEN_SUPPORT = TRUE		
-
 MATH_COUNT_SUPPORT = TRUE 			#口算达人
 
 FORMULA_SUPPORT = TRUE				#乘法口诀
